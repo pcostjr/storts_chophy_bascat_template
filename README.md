@@ -1,4 +1,3 @@
-#python #programming #project/outline 
 # Unit 3 Project -  Storts, Chophy, Bascat
 
 ### *"I'm thinking of a five-letter word..."*
